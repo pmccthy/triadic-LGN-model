@@ -1,3 +1,3 @@
-# Biophysically Detailed Model of the LGN with triadic synapses
+# Biophysically Detailed Network Model of the LGN with Triadic Synapses
 
-As part of my Masters group project for my degree, I worked with two others to develop this biophysical model of the mouse LGN which is one of the first models to incorporate the somewhat elusive triadic synapse. The development version is hosted on another repository which is owned by one of my teammates and can be found here: https://github.com/jmckmartin/triadicLGN2020. I have uploaded the final published version for the purpose of viewing my work easily.
+This model of the triadic circuitry of the mouse LGN was developed by myself, Patrick McCarthy, as well as Laura Lazzari and Jonathan Martin under the supervision of Professor Simon Schultz of Imperial College London's Neural Coding and Neurodegenerative Disease Lab. It was subsequently used to investigate temporal selectivity as a possible function of triadic synapses in the LGN. This work culminated in a conference paper which can be found here: https://doi.org/10.11159/icbes20.126
